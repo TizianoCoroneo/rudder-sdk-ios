@@ -5,3 +5,4 @@ ExampleSwift/ExampleSwift.xcodeproj/xcshareddata/
 ExampleSwift/ExampleSwift.xcodeproj/xcuserdata/
 .swiftpm/xcode/xcuserdata/
 .swiftpm/xcode/package.xcworkspace/xcuserdata/
+**/xcuserdata/

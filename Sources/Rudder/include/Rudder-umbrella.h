@@ -10,7 +10,7 @@
 #endif
 #endif
 
-#import "../Rudder.h"
+#import "Rudder.h"
 
 FOUNDATION_EXPORT double RudderVersionNumber;
 FOUNDATION_EXPORT const unsigned char RudderVersionString[];

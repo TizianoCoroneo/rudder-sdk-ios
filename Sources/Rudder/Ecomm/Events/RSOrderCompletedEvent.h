@@ -6,8 +6,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "../RSECommerceOrder.h"
-#import "../RSECommerceEvents.h"
+#import "RSECommerceOrder.h"
+#import "RSECommerceEvents.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

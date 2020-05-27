@@ -6,10 +6,10 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "../RSECommerceWishList.h"
-#import "../RSECommerceProduct.h"
-#import "../RSECommerceCart.h"
-#import "../RSECommerceEvents.h"
+#import "RSECommerceWishList.h"
+#import "RSECommerceProduct.h"
+#import "RSECommerceCart.h"
+#import "RSECommerceEvents.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

@@ -6,7 +6,7 @@
 //
 
 #import "RSOrderRefundedEvent.h"
-#import "../RSECommerceParamNames.h"
+#import "RSECommerceParamNames.h"
 
 @implementation OrderRefundedEvent
 

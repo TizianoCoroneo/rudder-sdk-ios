@@ -7,9 +7,9 @@
 //
 
 #import "RSClient.h"
-#import "../RSEventRepository.h"
+#import "RSEventRepository.h"
 #import "RSMessageBuilder.h"
-#import "../RSElementCache.h"
+#import "RSElementCache.h"
 #import "RSMessageType.h"
 #import "RSLogger.h"
 

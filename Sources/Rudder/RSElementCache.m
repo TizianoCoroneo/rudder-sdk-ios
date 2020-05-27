@@ -6,7 +6,7 @@
 //  Copyright © 2019 RSlabs. All rights reserved.
 //
 
-#import "../RSElementCache.h"
+#import "RSElementCache.h"
 
 static RSContext* cachedContext;
 

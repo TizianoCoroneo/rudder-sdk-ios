@@ -6,10 +6,10 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "../RSECommerceProduct.h"
-#import "../RSECommerceSort.h"
-#import "../RSECommerceFilter.h"
-#import "../RSECommerceEvents.h"
+#import "RSECommerceProduct.h"
+#import "RSECommerceSort.h"
+#import "RSECommerceFilter.h"
+#import "RSECommerceEvents.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

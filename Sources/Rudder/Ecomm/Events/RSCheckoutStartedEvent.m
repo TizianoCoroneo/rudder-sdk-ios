@@ -6,7 +6,7 @@
 //
 
 #import "RSCheckoutStartedEvent.h"
-#import "../RSECommerceParamNames.h"
+#import "RSECommerceParamNames.h"
 
 @implementation CheckoutStartedEvent
 

@@ -6,7 +6,7 @@
 //
 
 #import "RSCouponAppliedEvent.h"
-#import "../RSECommerceParamNames.h"
+#import "RSECommerceParamNames.h"
 
 @implementation CouponAppliedEvent
 

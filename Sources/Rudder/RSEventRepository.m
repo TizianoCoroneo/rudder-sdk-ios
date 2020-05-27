@@ -6,8 +6,8 @@
 //  Copyright © 2019 RSlabs. All rights reserved.
 //
 
-#import "../RSEventRepository.h"
-#import "../RSElementCache.h"
+#import "RSEventRepository.h"
+#import "RSElementCache.h"
 #import "RSUtils.h"
 #import "RSLogger.h"
 #import "UIViewController+RSScreen.h"

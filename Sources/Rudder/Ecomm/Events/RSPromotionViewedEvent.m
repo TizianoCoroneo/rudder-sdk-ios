@@ -6,7 +6,7 @@
 //
 
 #import "RSPromotionViewedEvent.h"
-#import "../RSECommerceParamNames.h"
+#import "RSECommerceParamNames.h"
 
 @implementation PromotionViewedEvent
 
