@@ -1,0 +1,1 @@
+../../RudderObjC/Ecomm/Events/RSPromotionClickedEvent.h
