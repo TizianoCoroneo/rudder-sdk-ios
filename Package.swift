@@ -17,8 +17,16 @@ let package = Package(
     targets: [
         .target(
             name: "Rudder",
+            dependencies: [
+                "RudderObjC"
+            ]
+        ),
+
+        .target(
+            name: "RudderObjC",
             dependencies: []
         ),
+
         .testTarget(
             name: "RudderTests",
             dependencies: ["Rudder"]),
