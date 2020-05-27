@@ -7,7 +7,7 @@
 //
 
 #import "RSMessageBuilder.h"
-#import "RSElementCache.h"
+#import "../RSElementCache.h"
 
 @implementation RSMessageBuilder
 

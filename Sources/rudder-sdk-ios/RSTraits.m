@@ -7,7 +7,7 @@
 //
 
 #import "RSTraits.h"
-#import "RSElementCache.h"
+#import "../RSElementCache.h"
 #import "RSUtils.h"
 
 @implementation RSTraits

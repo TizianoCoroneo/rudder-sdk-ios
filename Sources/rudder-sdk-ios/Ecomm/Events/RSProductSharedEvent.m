@@ -6,7 +6,7 @@
 //
 
 #import "RSProductSharedEvent.h"
-#import "RSECommerceParamNames.h"
+#import "../RSECommerceParamNames.h"
 
 @implementation ProductSharedEvent
 

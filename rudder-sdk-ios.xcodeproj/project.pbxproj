@@ -444,6 +444,15 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		5328004D247ECB1300BAFA3D /* include */ = {
+			isa = PBXGroup;
+			children = (
+				5306777B247EC544003405F5 /* Rudder-umbrella.h */,
+				5306777C247EC545003405F5 /* Rudder.modulemap */,
+			);
+			path = include;
+			sourceTree = "<group>";
+		};
 		OBJ_10 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -469,11 +478,9 @@
 			name = Products;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		OBJ_5 /*  */ = {
+		OBJ_5 = {
 			isa = PBXGroup;
 			children = (
-				5306777B247EC544003405F5 /* Rudder-umbrella.h */,
-				5306777C247EC545003405F5 /* Rudder.modulemap */,
 				OBJ_6 /* Package.swift */,
 				OBJ_7 /* Sources */,
 				OBJ_10 /* Tests */,
@@ -487,7 +494,6 @@
 				OBJ_24 /* Rudder.podspec */,
 				5306777D247EC5EC003405F5 /* Frameworks */,
 			);
-			name = "";
 			sourceTree = "<group>";
 		};
 		OBJ_7 /* Sources */ = {
@@ -501,6 +507,7 @@
 		OBJ_8 /* rudder-sdk-ios */ = {
 			isa = PBXGroup;
 			children = (
+				5328004D247ECB1300BAFA3D /* include */,
 				530676BE247EC3DC003405F5 /* Ecomm */,
 				53067680247EC3DC003405F5 /* RSServerConfigSource.m */,
 				53067681247EC3DC003405F5 /* RSTraits.m */,
@@ -642,7 +649,7 @@
 			knownRegions = (
 				en,
 			);
-			mainGroup = OBJ_5 /*  */;
+			mainGroup = OBJ_5;
 			productRefGroup = OBJ_14 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";

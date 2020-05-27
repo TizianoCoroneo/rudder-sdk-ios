@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "rudder-sdk-ios",
     platforms: [
-        .iOS(.v11)
+        .iOS(.v11),
     ],
     products: [
         // Products define the executables and libraries produced by a package, and make them visible to other packages.
@@ -23,7 +23,14 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages which this package depends on.
         .target(
             name: "rudder-sdk-ios",
-            dependencies: []),
+            dependencies: []
+//            ,
+//            cSettings: [
+//                .headerSearchPath("Sources/include"),
+//                .headerSearchPath("Sources/rudder-sdk-ios/Ecomm"),
+//                .headerSearchPath("Sources/rudder-sdk-ios/Ecomm/Events"),
+//        ]
+        ),
         .testTarget(
             name: "rudder-sdk-iosTests",
             dependencies: ["rudder-sdk-ios"]),

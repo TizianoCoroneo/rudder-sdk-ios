@@ -16,14 +16,14 @@
 #import "RSLogger.h"
 
 // Ecommerce Section
-#import "RSECommerceProductBuilder.h"
-#import "RSECommerceFilterBuilder.h"
-#import "RSECommerceSortBuilder.h"
-#import "RSECommercePromotionBuilder.h"
-#import "RSECommerceOrderBuilder.h"
-#import "RSECommerceCheckoutBuilder.h"
-#import "RSECommerceCouponBuilder.h"
-#import "RSECommerceWishListBuilder.h"
+#import "../RSECommerceProductBuilder.h"
+#import "../RSECommerceFilterBuilder.h"
+#import "../RSECommerceSortBuilder.h"
+#import "../RSECommercePromotionBuilder.h"
+#import "../RSECommerceOrderBuilder.h"
+#import "../RSECommerceCheckoutBuilder.h"
+#import "../RSECommerceCouponBuilder.h"
+#import "../RSECommerceWishListBuilder.h"
 
 #import "RSProductSearchedEvent.h"
 #import "RSProductListViewedEvent.h"

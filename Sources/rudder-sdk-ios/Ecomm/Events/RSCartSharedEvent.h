@@ -6,9 +6,9 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "RSECommerceEvents.h"
-#import "RSECommerceCart.h"
-#import "RSECommerceCartBuilder.h"
+#import "../RSECommerceEvents.h"
+#import "../RSECommerceCart.h"
+#import "../RSECommerceCartBuilder.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

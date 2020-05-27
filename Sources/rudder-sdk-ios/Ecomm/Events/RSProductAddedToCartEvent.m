@@ -6,7 +6,7 @@
 //
 
 #import "RSProductAddedToCartEvent.h"
-#import "RSECommerceParamNames.h"
+#import "../RSECommerceParamNames.h"
 
 @implementation ProductAddedToCartEvent
 

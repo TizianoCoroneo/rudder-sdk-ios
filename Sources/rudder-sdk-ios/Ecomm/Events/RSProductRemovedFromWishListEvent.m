@@ -6,7 +6,7 @@
 //
 
 #import "RSProductRemovedFromWishListEvent.h"
-#import "RSECommerceParamNames.h"
+#import "../RSECommerceParamNames.h"
 
 @implementation ProductRemovedFromWishListEvent
 
