@@ -3,5 +3,5 @@
 Example/Rudder.xcodeproj/xcshareddata/
 ExampleSwift/ExampleSwift.xcodeproj/xcshareddata/
 ExampleSwift/ExampleSwift.xcodeproj/xcuserdata/
-.swiftpm/xcode/xcuserdata
-rudder-sdk-ios.xcodeproj/project.xcworkspace/xcuserdata
+.swiftpm/xcode/xcuserdata/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
