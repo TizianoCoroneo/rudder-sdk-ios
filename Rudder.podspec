@@ -14,5 +14,6 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'Sources/**/*'
+  s.source_files = 'Sources/RudderObjC/**/*.{h,m}'
+  s.exclude_files = 'Sources/RudderObjC/include/*'
 end
